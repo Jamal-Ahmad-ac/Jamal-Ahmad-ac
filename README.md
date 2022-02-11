@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jamal-Ahmad-ac
-- 👀 I’m interested in Object-Oriented Programming and Game Developing
-- 🌱 I’m currently learning .NET, and Web Enterprise programming
+- 👀 I’m interested in Object-Oriented Programming and Database Structures
+- 🌱 I’m currently learning .NET Enterprise, Web Enterprise, and Interfacing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  Email: ahma0144@algonquinlive.com
 
